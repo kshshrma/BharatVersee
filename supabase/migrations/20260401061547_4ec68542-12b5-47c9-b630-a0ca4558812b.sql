@@ -1,0 +1,1 @@
+ALTER TABLE public.cultural_content DROP CONSTRAINT cultural_content_created_by_fkey;
